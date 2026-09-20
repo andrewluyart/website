@@ -1,0 +1,174 @@
+{
+  "settings": {
+    "name": "Andrew Luy",
+    "tagline": "Sculptor + Public Artist",
+    "email": "andrewluyart@gmail.com",
+    "instagramUrl": "https://www.instagram.com/andrew_luy/",
+    "instagramLabel": "Instagram @andrew_luy",
+    "location": "Huntsville, Alabama · Available nationally"
+  },
+  "hero": {
+    "eyebrow": "Huntsville, Alabama · Working nationally",
+    "title": "Stories made\nmonumental.",
+    "intro": "I create figurative sculpture and civic landmarks shaped by the people, histories, and places they are built to serve.",
+    "image": "/images/ripple-portrait.webp",
+    "imageAlt": "Andrew Luy at The Ripple memorial with the bronze Dr. Martin Luther King Jr. figure",
+    "captionTitle": "The Ripple",
+    "captionMeta": "Winter Park, Florida · 2025",
+    "facts": [
+      { "value": "37 ft", "label": "largest installation footprint" },
+      { "value": "1,000+", "label": "applicants for The Ripple" },
+      { "value": "Bronze", "label": "stone, metal + mixed media" }
+    ]
+  },
+  "statement": "Public art should do more than occupy space. It should help people recognize themselves, one another, and the story of where they live.",
+  "projects": [
+    {
+      "number": "01 / Featured commission",
+      "title": "The Ripple",
+      "meta": "Winter Park, Florida · Bronze, granite, landscape",
+      "description": "A civic memorial centered on a nine-foot bronze figure of Dr. Martin Luther King Jr. Concentric seating and engraved granite walls carry his words outward while honoring Black families displaced from the site by eminent domain.",
+      "image": "/images/ripple-aerial.webp",
+      "imageAlt": "Aerial view of The Ripple memorial",
+      "featured": true,
+      "specs": [
+        { "label": "Scale", "value": "37-foot site · 11-foot overall height" },
+        { "label": "Process", "value": "Community-led, iterative design" },
+        { "label": "Role", "value": "Artist, designer + project lead" }
+      ]
+    },
+    {
+      "number": "02 / Public sculpture",
+      "title": "Robyn Hood",
+      "meta": "Sherwood Park · Huntsville, Alabama",
+      "description": "A contemporary young hero who reframes the familiar legend around courage, equality, and neighbors helping neighbors.",
+      "image": "/images/robyn-hood.webp",
+      "imageAlt": "Robyn Hood bronze sculpture",
+      "featured": false,
+      "specs": []
+    },
+    {
+      "number": "03 / Figurative practice",
+      "title": "Movement + Character",
+      "meta": "Clay, bronze + mixed media",
+      "description": "Anatomical knowledge is the starting point, not the finish line. Gesture, energy, and emotional clarity give each figure its life.",
+      "image": "/images/figurative-athlete.webp",
+      "imageAlt": "Dynamic figurative sculpture study",
+      "featured": false,
+      "specs": []
+    }
+  ],
+  "gallery": [
+    { "src": "/images/ripple-aerial.webp", "alt": "Aerial view of The Ripple memorial and its concentric granite walls", "label": "The Ripple · Site view" },
+    { "src": "/images/robyn-hood.webp", "alt": "Robyn Hood bronze sculpture drawing a bow", "label": "Robyn Hood · Bronze" },
+    { "src": "/images/figurative-athlete.webp", "alt": "Expressive figurative sculpture study of an athlete in motion", "label": "Figurative study" },
+    { "src": "/images/ripple-landscape.webp", "alt": "The Ripple memorial beside the lake in Winter Park", "label": "The Ripple · Unity Corner" },
+    { "src": "/images/figurative-portrait.webp", "alt": "Sculpted portrait bust with expressive planes", "label": "Portrait study" },
+    { "src": "/images/process-josh.webp", "alt": "Andrew Luy working on a painted relief portrait", "label": "Studio process" }
+  ],
+  "process": {
+    "title": "Listen first.\nThen make.",
+    "lead": "The strongest public art grows from real exchange. I begin with the community and the site, then carry that shared direction through concept, engineering, fabrication, and installation.",
+    "steps": [
+      { "number": "01", "title": "Listen + learn", "description": "Stakeholder conversations, history, site conditions, and the stories that might otherwise go unseen." },
+      { "number": "02", "title": "Shape the idea", "description": "Sketches, maquettes, material studies, and clear checkpoints that make collaboration tangible." },
+      { "number": "03", "title": "Build responsibly", "description": "Engineering, accessibility, fabrication, municipal review, and long-term performance are part of the artwork." }
+    ],
+    "mainImage": "/images/andrew-mlk-process.webp",
+    "mainImageAlt": "Andrew Luy beside the full-scale clay figure for The Ripple",
+    "secondaryImage": "/images/ripple-close.webp",
+    "secondaryImageAlt": "Close view of The Ripple and its granite seating"
+  },
+  "film": {
+    "title": "See the work\nin motion.",
+    "description": "A closer look at the sculpture, process, and places that shape Andrew's public work.",
+    "youtubeId": "VEKpofJUASM"
+  },
+  "about": {
+    "title": "A figurative sculptor with a civic point of view.",
+    "lead": "Andrew Luy is a Huntsville-based sculptor and installation artist whose work turns shared histories into durable, human-centered public places.",
+    "paragraphs": [
+      "After a career on Wall Street, Andrew committed fully to sculpture, studying with Rhoda Sherbell at The Art Students League of New York. He later taught and assisted figurative sculpture at the League and the National Academy of Design. His practice spans bronze, metal, stone, concrete, and mixed media.",
+      "Today, from his studio at Lowe Mill Arts & Entertainment, he works with residents, civic leaders, engineers, fabricators, architects, and contractors to deliver ambitious public artwork from first conversation through final installation.",
+      "Alongside his sculpture practice, Andrew renovates historic houses and restores antique furniture, extending the same respect for material, craft, and lived history into domestic spaces and objects."
+    ],
+    "image": "/images/andrew-studio.webp",
+    "imageAlt": "Andrew Luy seated in his Lowe Mill studio among sculptures",
+    "recognition": [
+      { "name": "Art Students League of New York", "detail": "Assistant sculpture instructor · 2012–2021" },
+      { "name": "National Academy of Design", "detail": "Figurative sculpture monitor · 2013–2017" },
+      { "name": "Lowe Mill Arts & Entertainment", "detail": "Studio 1019 · Huntsville, Alabama" }
+    ]
+  },
+  "press": [
+    {
+      "publication": "Forbes",
+      "date": "April 1, 2014",
+      "title": "The $300 Man: Mariano Rivera's Fans Line Up For His Autograph And Smile",
+      "description": "Forbes singled out Andrew's hand-sculpted Mariano Rivera statue as the top artwork at the Yankees legend's autograph appearance.",
+      "url": "https://www.forbes.com/sites/davidseideman/2014/04/01/the-300-man-mariano-riveras-fans-line-up-for-his-autograph-and-smile/",
+      "featured": true
+    },
+    {
+      "publication": "Hville Blast",
+      "date": "July 22, 2025",
+      "title": "From Lowe Mill to Winter Park: Huntsville artist's MLK memorial unveiled",
+      "description": "The completion of The Ripple, its community collaboration, and Andrew's reflections after the dedication.",
+      "url": "https://hvilleblast.com/from-lowe-mill-to-winter-park-fl-huntsville-artists-mlk-memorial-just-unveiled/",
+      "featured": false
+    },
+    {
+      "publication": "Rocket City Now",
+      "date": "July 17, 2025",
+      "title": "Statue rooted in Huntsville now on display at Florida park",
+      "description": "Local coverage follows The Ripple from its creation at Lowe Mill to its permanent installation in Winter Park.",
+      "url": "https://www.rocketcitynow.com/article/news/local/statue-rooted-in-huntsville-now-on-display-at-florida-park/525-edb216e4-4da8-41b3-bd6b-4b7f1811e295",
+      "featured": false
+    },
+    {
+      "publication": "WAFF 48",
+      "date": "February 20, 2025",
+      "title": "Huntsville artists share their journey building an MLK Jr. monument",
+      "description": "A studio interview about scale, symbolism, stakeholder input, and the making of the nine-foot bronze figure.",
+      "url": "https://www.waff.com/2025/02/20/huntsville-artists-join-48-now-share-their-journey-building-mlk-jr-monument/",
+      "featured": false
+    },
+    {
+      "publication": "Hville Blast",
+      "date": "January 20, 2025",
+      "title": "How Lowe Mill artist Andrew Luy is honoring Martin Luther King Jr.",
+      "description": "A profile tracing Andrew's move from Wall Street to sculpture and his community-centered creative process.",
+      "url": "https://hvilleblast.com/how-lowe-mill-artist-andrew-luy-is-honoring-martin-luther-king-jr/",
+      "featured": false
+    },
+    {
+      "publication": "National Sculpture Society",
+      "date": "2025",
+      "title": "Andrew Luy and The Ripple",
+      "description": "The National Sculpture Society highlights the Winter Park commission and its memorial to displaced families.",
+      "url": "https://nationalsculpture.org/news-events/luy-mlk/",
+      "featured": false
+    },
+    {
+      "publication": "Arts Huntsville",
+      "date": "November 16, 2023",
+      "title": "Artist-initiated public art reflects Huntsville's unique spirit",
+      "description": "Coverage of Robyn Hood and the neighborhood collaboration that brought the sculpture to Sherwood Park.",
+      "url": "https://www.artshuntsville.org/artist-initiated-nea/",
+      "featured": false
+    },
+    {
+      "publication": "Newburgh Restoration",
+      "date": "March 7, 2017",
+      "title": "Home Renovation Adventures: 36 Dubois, a Land Bank Property",
+      "description": "A visit to Andrew's circa-1855 Newburgh home, documenting its restoration, his sculpture practice, and his hopes for the neighborhood.",
+      "url": "https://newburghrestoration.com/blog/2017/03/07/home-renovation-adventures-36-dubois-a-land-bank-property/",
+      "featured": false
+    }
+  ],
+  "contact": {
+    "eyebrow": "Commissions + collaborations",
+    "title": "Let's make a place\npeople remember.",
+    "buttonLabel": "Start a conversation"
+  }
+}
