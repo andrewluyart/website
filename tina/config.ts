@@ -10,7 +10,7 @@ export default defineConfig({
   branch,
   clientId:
     process.env.NEXT_PUBLIC_TINA_CLIENT_ID ||
-    "9defa199-0b2b-4d76-a29e-b6933007cfd4",
+    "d48fc58d-793a-4741-b2b6-e038fcaf4e6c",
   token: process.env.TINA_TOKEN,
   build: {
     outputFolder: "admin",
@@ -200,5 +200,4 @@ export default defineConfig({
     ],
   },
 });
-
 
